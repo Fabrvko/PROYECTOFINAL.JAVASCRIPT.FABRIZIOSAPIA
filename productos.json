@@ -1,0 +1,104 @@
+[
+    {
+      "id": 1,
+      "nombre": "Converse White",
+      "precio": 7000,
+      "imagen": "/img/converse/conversebota.jpeg"
+    },
+    {
+      "id": 2,
+      "nombre": "Converse Black",
+      "precio": 7000,
+      "imagen": "/img/converse/conversebota1.jpeg"
+    },
+    {
+      "id": 3,
+      "nombre": "Converse Black Style",
+      "precio": 7500,
+      "imagen": "/img/converse/conversebota2.jpeg"
+    },
+    {
+      "id": 4,
+      "nombre": "Converse White",
+      "precio": 7000,
+      "imagen": "/img/converse/conversezapa.jpeg"
+    },
+    {
+      "id": 5,
+      "nombre": "Converse Bordó",
+      "precio": 7000,
+      "imagen": "/img/converse/conversezapa1.jpeg"
+    },
+    {
+      "id": 6,
+      "nombre": "Converse Black Style",
+      "precio": 8000,
+      "imagen": "/img/converse/conversezapa2.jpeg"
+    },
+    {
+      "id": 7,
+      "nombre": "Converse Black",
+      "precio": 7000,
+      "imagen": "/img/converse/conversezapa3.jpeg"
+    },
+    {
+      "id": 8,
+      "nombre": "Converse Roja",
+      "precio": 7000,
+      "imagen": "/img/converse/conversezapa4.jpeg"
+    },
+    {
+      "id": 9,
+      "nombre": "Converse Escamas",
+      "precio": 8000,
+      "imagen": "/img/converse/conversezapa5.jpeg"
+    },
+    {
+      "id": 10,
+      "nombre": "Nike Airmax Yellow",
+      "precio": 8500,
+      "imagen": "/img/nike/nikeair.jpeg"
+    },
+    {
+      "id": 11,
+      "nombre": "Nike Airmax Pink",
+      "precio": 8500,
+      "imagen": "/img/nike/nikeair1.jpeg"
+    },
+    {
+      "id": 12,
+      "nombre": "Nike Airmax Design",
+      "precio": 9500,
+      "imagen": "/img/nike/nikeair2.jpeg"
+    },
+    {
+      "id": 13,
+      "nombre": "Nike Airmax Multicolor",
+      "precio": 8500,
+      "imagen": "/img/nike/nikeair3.jpeg"
+    },
+    {
+      "id": 14,
+      "nombre": "Nike Airmax Black&Pink",
+      "precio": 8500,
+      "imagen": "/img/nike/nikeair4.jpeg"
+    },
+    {
+      "id": 15,
+      "nombre": "Nike Airmax Black",
+      "precio": 9000,
+      "imagen": "/img/nike/nikeair5.jpeg"
+    },
+    {
+      "id": 16,
+      "nombre": "Nike Airmax Shadow",
+      "precio": 9000,
+      "imagen": "/img/nike/nikeair6.jpeg"
+    },
+    {
+      "id": 17,
+      "nombre": "Nike Airmax Red",
+      "precio": 8500,
+      "imagen": "/img/nike/nikeair7.jpeg"
+    }
+  ]
